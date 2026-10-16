@@ -79,18 +79,6 @@
 </p>
 
 
-<!--
-可选：如果愿意展示「写代码时用的语言」，把下面这行的注释去掉即可（IMREPO 是 Go + 原生 JS 写的，属实）：
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
--->
-
 ---
 
 ### 📦 精选项目
@@ -119,15 +107,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0ON1&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages">
 </p>
 
-
 ---
-
-### 📫 找到我
-
-<p>
-  <a href="mailto:xy_liu13@163.com"><img src="https://img.shields.io/badge/Email-xy__liu13@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Zer0ON1"><img src="https://img.shields.io/badge/GitHub-Zer0ON1-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
 
 
 <p align="center"><sub><i>临行雨，LeavingRain —— 云在青天水在瓶。</i></sub></p>
