@@ -111,7 +111,7 @@
 
 Tauri 2 + Rust + React 跨平台桌面应用：**领域核心与桌面外壳分层解耦**（核心 crate 不依赖 Tauri），11 个集成测试跑在内存 SQLite 上，守护「拖拽只改排序」「删除幂等」「备份轮转」等易回归规则；主安装包 **1.96 MB**，零账号、零网络请求。
 
-> 三种视图（列表/日历/状态看板）· 无边框置顶悬浮窗 · 中英双语 · Windows + macOS 双平台 CI · 3 天从 0 到可发布
+> 三种视图（列表/日历/状态看板）· 无边框置顶悬浮窗 · 中英双语 · Windows + macOS 双平台 CI
 
 `Tauri 2` · `Rust` · `React 18 + TypeScript` · `SQLite` · `Apache-2.0`
 
