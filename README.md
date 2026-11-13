@@ -4,15 +4,6 @@
   <b>DevOps Engineer</b> · 容器化交付 · 自动化运维 · 可观测性建设
 </p>
 
-<p align="center">
-  <a href="https://github.com/Zer0ON1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Zer0ON1?label=Followers&style=flat-square&color=1f6feb" alt="followers">
-  </a>
-  <img src="https://img.shields.io/badge/Location-China-3fb950?style=flat-square" alt="location">
-  <img src="https://img.shields.io/badge/Focus-Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="focus">
-  <img src="https://img.shields.io/badge/Open_to-Open_Source-8957e5?style=flat-square" alt="open source">
-</p>
-
 ---
 
 ### 👋 关于我
