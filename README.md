@@ -11,7 +11,7 @@
 > 把「在一台机器上跑起来」和「在一百台机器上跑得一模一样」之间的那段距离，当作自己的专业——那段距离里装的东西，叫自动化。
 
 - 🔧 **日常** —— K8s 集群运维、PVE/Ceph 超融合基础设施、Ansible 批量编排、CI/CD 流水线搭建、监控告警体系落地
-- 📦 **开源** —— 维护 [IMREPO](https://github.com/Zer0ON1/dbx-plugin-imrepo)（DBX 官方商店上架的镜像仓库插件）与 [BeaconTODO](https://github.com/Zer0ON1/BeaconTODO)（本地优先桌面待办）
+- 📦 **开源** —— 维护 [IMREPO](https://github.com/LeavingRain/dbx-plugin-imrepo)（DBX 官方商店上架的镜像仓库插件）与 [BeaconTODO](https://github.com/LeavingRain/BeaconTODO)（本地优先桌面待办）
 - 🎯 **方向** —— 云原生 / 平台工程 / SRE 实践 / 信创国产化落地
 - 💬 **信条** —— 能写成代码的，就不要手敲第二遍
 
@@ -78,11 +78,11 @@
 
 ### 📦 精选项目
 
-<a href="https://github.com/Zer0ON1/dbx-plugin-imrepo">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Zer0ON1&repo=dbx-plugin-imrepo&theme=transparent&hide_border=true" alt="IMREPO">
+<a href="https://github.com/LeavingRain/dbx-plugin-imrepo">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=LeavingRain&repo=dbx-plugin-imrepo&theme=transparent&hide_border=true" alt="IMREPO">
 </a>
 
-#### [IMREPO — Image Registry Studio](https://github.com/Zer0ON1/dbx-plugin-imrepo)
+#### [IMREPO — Image Registry Studio](https://github.com/LeavingRain/dbx-plugin-imrepo)
 
 在同一个工作台里浏览、管理与体检 OCI / Harbor 容器镜像仓库。基于 **OCI Distribution 标准**实现，一套代码兼容 Harbor、Docker Registry v2、Docker Hub、GHCR、ACR、TCR、ECR 等 **11 类仓库**与 **7 种认证方式**（含 AWS SigV4、阿里云 HMAC-SHA1、腾讯云 TC3 签名）。
 
@@ -94,11 +94,11 @@
 
 <br clear="right"/>
 
-<a href="https://github.com/Zer0ON1/BeaconTODO">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zer0ON1&repo=BeaconTODO&theme=transparent&hide_border=true" alt="BeaconTODO">
+<a href="https://github.com/LeavingRain/BeaconTODO">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LeavingRain&repo=BeaconTODO&theme=transparent&hide_border=true" alt="BeaconTODO">
 </a>
 
-#### [BeaconTODO — 本地优先桌面待办](https://github.com/Zer0ON1/BeaconTODO)
+#### [BeaconTODO — 本地优先桌面待办](https://github.com/LeavingRain/BeaconTODO)
 
 Tauri 2 + Rust + React 跨平台桌面应用：**领域核心与桌面外壳分层解耦**（核心 crate 不依赖 Tauri），11 个集成测试跑在内存 SQLite 上，守护「拖拽只改排序」「删除幂等」「备份轮转」等易回归规则；主安装包 **1.96 MB**，零账号、零网络请求。
 
@@ -120,8 +120,8 @@ Tauri 2 + Rust + React 跨平台桌面应用：**领域核心与桌面外壳分�
 ### 📊 一些数字
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zer0ON1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0ON1&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeavingRain&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeavingRain&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages">
 </p>
 
 ---
